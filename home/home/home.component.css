@@ -1,0 +1,50 @@
+.child{
+    background-color: rgba(24, 27, 29, 0.829);
+    cursor: pointer;
+}
+ol li{
+    padding: 5%;
+}
+ol li {
+   list-style-type: none;
+   text-align: center;
+   color: white;
+   font-weight: 500;
+ 
+}
+  h4{
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    /* background-color: black; */
+
+}
+i{
+    float: right;
+}
+/* li:nth-child(1) {
+    color: blueviolet;
+} */
+li:nth-child(1) {
+    color: rgb(42, 174, 226) !important;
+  }
+p{
+      font-weight: bolder; 
+      background-color: rgba(12, 132, 245, 0.829);
+      color: white;
+      text-align: center;
+      font-size: xx-large;
+ }
+h1{
+    color: rgba(12, 132, 245, 0.829);
+    font-weight: bolder;
+    
+ }
+ .div1{
+    position: relative;
+    /* top: 52%; */
+    margin-top: 19%;
+  }
+.CodingNepal{
+    background-color:rgba(12, 132, 245, 0.829); ;
+  }
